@@ -9,6 +9,7 @@ public class Homework1 {
             int num = sc.nextInt();
             sum += num;
             System.out.println("current value is: " + sum);
+            sc.close();
         }
     }
 }
